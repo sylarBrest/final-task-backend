@@ -1,2 +1,2 @@
-export const PORT = 3000;
-export const SECRET_KEY = 'myVerySecretKey-04.05.2022';
+export const PORT = 3001;
+export const SECRET_KEY = '86b0e8db4c6eeb151ce5ce2e23cfd967';
